@@ -10,14 +10,15 @@ class Solution(object):
         :type head: ListNode
         :rtype: ListNode
         """
+        
         list_length=0
         temp=head
+        
         while temp is not None:
             temp=temp.next
             list_length+=1
         
         for i in range(list_length/2):
             head=head.next
-    
-        
+       
         return head
