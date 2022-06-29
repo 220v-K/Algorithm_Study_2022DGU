@@ -10,7 +10,7 @@ class Solution(object):
         for i in range(len(s)):
             result+=dict[s[i]]
             print(s[i],result)
-            if i>0 and dict[s[i-1]]<dict[s[i]]: #빼기가 있음
+            if i>0 and dict[s[i-1]]<dict[s[i]]: 
                 result-=2*dict[s[i-1]]
                 print(s[i],result)
                 
