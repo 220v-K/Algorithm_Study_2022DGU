@@ -25,10 +25,3 @@ class Solution(object):
                 return False
 
         return isCanConstruct
-
-
-ransomNote = "ab"
-magazine = "aab"
-result=Solution()
-print(result.canConstruct(ransomNote, magazine))
-                
