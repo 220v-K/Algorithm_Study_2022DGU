@@ -16,7 +16,7 @@
 
 - 이재원 (Python, C++)
 - 김민석 (C++)
-- 김민수 (C++)
+- 김민수 (Python)
 - 박지원 (Python)
 - 이윤정 (Python)
 
