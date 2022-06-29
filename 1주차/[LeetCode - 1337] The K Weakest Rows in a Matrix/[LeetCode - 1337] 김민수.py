@@ -5,7 +5,6 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        print("hello")
         dict={} # 1 개수 담는 dict key는 row 번호, value는 1 개수
         for i in range(len(mat)):
             num=0 #num는 1개수
