@@ -83,6 +83,7 @@
 #### Commit Message
 
 - [문제 사이트 - 문제 번호] 문제명
+- 귀찮으면 대충 모든 문제 푼다음에 `[N주차] 이름` 써서 한번에 커밋해도 됩니다..^ㅁ^
 
 ex) [LeetCode - 234] Palindrome Linked List
 
