@@ -135,7 +135,7 @@ ex) [1주차] 이재원
 
 ## 목차
 
-#### 1주차
+### 1주차
 
 LeetCode - [Challenges for New Users](https://leetcode.com/problem-list/challenges-for-new-users/)
 
@@ -148,3 +148,22 @@ LeetCode - [Challenges for New Users](https://leetcode.com/problem-list/challeng
 - [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)
 
+  
+
+### 2주차
+
+프로그래머스 - [코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+
+**해시**
+
+- [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
+- [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
+- [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
+- [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
+
+**스택/큐**
+
+- [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
+- [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
+- [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
+- [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
