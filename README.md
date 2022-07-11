@@ -148,7 +148,8 @@ LeetCode - [Challenges for New Users](https://leetcode.com/problem-list/challeng
 - [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)
 
-  
+
+---
 
 ### 2주차
 
@@ -167,3 +168,26 @@ LeetCode - [Challenges for New Users](https://leetcode.com/problem-list/challeng
 - [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
 - [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
 - [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
+
+---
+
+### 3주차
+
+프로그래머스 - [코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+
+동적계획법(DP) 2문제, DFS/BFS 3문제.
+
+### Dynamic Programming
+
+- [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
+- [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
+  - [LeetCode - 97. Interleaving String](https://leetcode.com/problems/interleaving-string/) 
+
+### DFS/BFS
+
+- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+- [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
+- [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
+
+---
+
