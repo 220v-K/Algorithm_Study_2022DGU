@@ -177,13 +177,13 @@ LeetCode - [Challenges for New Users](https://leetcode.com/problem-list/challeng
 
 동적계획법(DP) 2문제, DFS/BFS 3문제.
 
-### Dynamic Programming
+#### Dynamic Programming
 
 - [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
 - [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
   - [LeetCode - 97. Interleaving String](https://leetcode.com/problems/interleaving-string/) 
 
-### DFS/BFS
+#### DFS/BFS
 
 - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 - [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
@@ -191,3 +191,20 @@ LeetCode - [Challenges for New Users](https://leetcode.com/problem-list/challeng
 
 ---
 
+### 4주차
+
+프로그래머스 - [코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) / LeetCode
+
+동적계획법(DP) 2문제, DFS/BFS 2문제.
+
+#### Dynamic Programming
+
+- 프로그래머스 - [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
+- LeetCode - [1696. Jump Game VI](https://leetcode.com/problems/jump-game-vi/)
+
+#### DFS/BFS
+
+- [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
+- [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)
+
+---
