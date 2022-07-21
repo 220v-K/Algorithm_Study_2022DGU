@@ -12,6 +12,7 @@ def solution(n, computers):
             answer += 1 
     return answer
 
+
 def dfs(j):
     global checked
     if checked[j] == True: 
