@@ -1,19 +1,12 @@
-# 5주차
+# 6주차
 
-프로그래머스 - [코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) / LeetCode
+프로그래머스 - [코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) / 백준 https://www.acmicpc.net/
 
-Hash, Greedy 1문제, 완전탐색 2문제
+Greedy 5문제
 
-### Hash
+- [백준] [11000. 강의실 배정](https://www.acmicpc.net/problem/11000)
+- [백준] [2437. 저울](https://www.acmicpc.net/problem/2437)
+- [백준] [1700. 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
+- [프로그래머스] [42884. 단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)
 
-- [LeetCode] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) (박지원)
-
-### Greedy
-
-- [LeetCode] [135. Candy](https://leetcode.com/problems/candy/) (이재원)
-
-### 완전탐색
-
-- [프로그래머스] [42839. 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) (김민석)
-
-- [프로그래머스] [42842. 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) (김민수)
+- [프로그래머스] [42861. 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
