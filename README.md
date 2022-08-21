@@ -254,3 +254,12 @@ Greedy 5문제
 - [프로그래머스] [64063. 호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)
 - [프로그래머스] [64064. 불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
 - [프로그래머스] [64065. 튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)
+
+---
+
+### 8주차
+
+프로그래머스 - **코딩테스트 고득점 Kit** - 힙(Heap) 2문제
+
+- [프로그래머스] [42626. 더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
+- [프로그래머스] [42627. 디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
