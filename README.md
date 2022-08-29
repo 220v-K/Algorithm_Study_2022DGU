@@ -276,3 +276,12 @@ Greedy 5문제
 - [프로그래머스] [67259. 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
 - [프로그래머스] [67260. 동굴 탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260)
 
+---
+
+### 10주차
+
+프로그래머스 - **코딩테스트 고득점 Kit** - 이분탐색 (Binary Search) 2문제
+
+- [프로그래머스] [43236. 징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)
+- [프로그래머스] [43238. 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
+
